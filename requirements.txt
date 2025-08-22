@@ -1,0 +1,16 @@
+# Accounts Receivable Collection Manager Requirements
+# Python 3.7+ required
+
+# No external dependencies required - uses only Python standard library:
+# - sqlite3 (built-in database)
+# - datetime (date/time handling)
+# - argparse (command line arguments)
+# - os, sys (system utilities)
+# - logging (application logging)
+# - typing (type hints)
+# - math (mathematical functions)
+
+# Optional development dependencies:
+# pytest>=6.0.0  # For running tests
+# black>=21.0.0  # For code formatting
+# mypy>=0.910    # For type checking
